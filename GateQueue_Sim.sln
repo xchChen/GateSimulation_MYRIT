@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GateQueue_Sim", "GateQueue_Sim\GateQueue_Sim.csproj", "{B0F75958-233C-4E35-ABB8-205406FCC9FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F75958-233C-4E35-ABB8-205406FCC9FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F75958-233C-4E35-ABB8-205406FCC9FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F75958-233C-4E35-ABB8-205406FCC9FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F75958-233C-4E35-ABB8-205406FCC9FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78E1B5A2-CED0-42CB-B415-C899E8C4193A}
+	EndGlobalSection
+EndGlobal
